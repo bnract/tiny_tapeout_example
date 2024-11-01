@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Converts ASCII binary 'A' to 'V'
 
 ## How to test
 
-Explain how to use your project
+Input 0x37 on the input pins. The output pins should display 0x56.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
