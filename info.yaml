@@ -1,11 +1,11 @@
 # Tiny Tapeout project information (Wokwi project)
 project: # "Bad Logic"
   wokwi_id:    413386988538584065
-  title:        ""      # "Bad Logic"
-  author:       ""      # "AaronV"
-  discord:      ""      # ""
-  description:  ""      # "Basic (broken) logic"
-  language:     "Wokwi" # "Wokwi"
+  title:        "Bad Logic"
+  author:       "AaronV"
+  discord:      ""
+  description:  "Basic (broken) logic"
+  language:     "Wokwi"
   clock_hz:     0       # 0
 
   # How many tiles your design occupies? A single tile is about 167x108 uM.
